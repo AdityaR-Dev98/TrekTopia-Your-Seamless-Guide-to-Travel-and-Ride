@@ -6,13 +6,7 @@ import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "--",
-  authDomain: "trektopia1-592bb.firebaseapp.com",
-  databaseURL: "https://trektopia1-592bb-default-rtdb.firebaseio.com",
-  projectId: "trektopia1-592bb",
-  storageBucket: "trektopia1-592bb.appspot.com",
-  messagingSenderId: "772956089791",
-  appId: "1:772956089791:web:2de8e594bf8ce9c8bf050a"
+--
 };
 
 // Initialize Firebase
